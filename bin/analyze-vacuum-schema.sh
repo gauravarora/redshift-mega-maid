@@ -1,7 +1,5 @@
 #!/bin/bash
 
-env
-
 python /opt/amazon-redshift-utils/src/AnalyzeVacuumUtility/analyze-vacuum-schema.py \
        --db $MM_DB_NAME --db-user $MM_DB_USER --db-pwd $MM_DB_PASS \
        --db-port $MM_DB_PORT --db-host $MM_DB_HOST \
