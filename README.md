@@ -1,5 +1,12 @@
 RedShift Mega Maid
 ==================
+[![GitHub stars](https://img.shields.io/github/stars/ReturnPath/redshift-mega-maid.svg?style=social&label=Star)](https://github.com/ReturnPath/redshift-mega-maid)
+[![GitHub watchers](https://img.shields.io/github/watchers/ReturnPath/redshift-mega-maid.svg?style=social&label=Watch)](https://github.com/ReturnPath/redshift-mega-maid)
+[![GitHub forks](https://img.shields.io/github/forks/ReturnPath/redshift-mega-maid.svg?style=social&label=Fork)](https://github.com/ReturnPath/redshift-mega-maid)
+[![GitHub issues](https://img.shields.io/github/issues/ReturnPath/redshift-mega-maid.svg)](https://github.com/ReturnPath/redshift-mega-maid/issues)
+[![Docker Pulls](https://img.shields.io/docker/pulls/returnpath/redshift-mega-maid.svg)](https://hub.docker.com/r/returnpath/redshift-mega-maid)
+[![Docker Stars](https://img.shields.io/docker/stars/returnpath/redshift-mega-maid.svg)](https://hub.docker.com/r/returnpath/redshift-mega-maid)
+[![Image Layers](https://badge.imagelayers.io/returnpath/redshift-mega-maid:latest.svg)](https://imagelayers.io/?images=returnpath/redshift-mega-maid:latest 'Get your own badge on imagelayers.io')
 
 ![RedShift Mega Maid](https://raw.githubusercontent.com/ReturnPath/redshift-mega-maid/master/mega-maid.gif)
 
