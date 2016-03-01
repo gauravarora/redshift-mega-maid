@@ -1,6 +1,8 @@
 RedShift Mega Maid
 ==================
 
+![RedShift Mega Maid](https://raw.githubusercontent.com/ReturnPath/redshift-mega-maid/master/mega-maid.gif)
+
 This project is a simple Docker container built from [awslabs/amazon-redshift-utils][1].  It's purpose is to `VACUUM` and `ANALYZE` a RedShift Cluster as a background job.
 
 ## Development
