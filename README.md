@@ -108,6 +108,19 @@ Since we're using an `ENTRYPOINT`, rather than `CMD` in `Dockerfile` any flags y
 
 If for some reason you need to run a container and get a shell you need to override the entrypoint: `docker run -it -entrypoint=/bin/bash <IMAGE>`
 
+# License
+
+This project is mostly packaging and wrapper scripts for the [`amazon-redshift-utils`][amazon-redshift-utils-license] tools.  As such, nothing in this repository is "novel", or "non-obvious". This repo is therefore released under the [Apache 2.0 License][apache-2-license].
+
+However, the upstream tools are released under other licenses:
+
+ - ["`amazon-redshift-utils`"][amazon-redshift-utils-license] is released under the [Amazon Software License][asl].
+
+The text of these tool's licenses are included here to avoid confusion.
+
 
 [1]: https://github.com/awslabs/amazon-redshift-utils.git
 [2]: https://docs.docker.com/engine/userguide/containers/dockervolumes/
+[apache-2-license]: https://choosealicense.com/licenses/apache-2.0/
+[asl]: http://aws.amazon.com/asl/
+[amazon-redshift-utils-license]: https://github.com/awslabs/amazon-redshift-utils/blob/master/LICENSE.txt
